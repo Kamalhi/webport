@@ -52,11 +52,11 @@ const Navbar = () => {
             <Image
               src={assets.iconWeb}
               alt=""
-              className="w-28 cursor-pointer mr-14"
+              className="w-28 cursor-pointer"
             />
           </a>
 
-          <ul className="font-bold hidden md:flex items-center gap-6 lg:gap-8 rounded-full py-3 px-12">
+          <ul className="font-bold hidden md:flex items-center gap-6 lg:gap-8 absolute left-1/2 -translate-x-1/2">
             <li>
               <a href="#top">Home</a>
             </li>
@@ -71,7 +71,7 @@ const Navbar = () => {
             </li>
           </ul>
 
-          <div className="flex items-center gap-3">
+          <div className="flex items-center gap-3 shrink-0">
             <button onClick={toggleDarkMode}>
               {isDarkMode ? (
                 <SunIcon
