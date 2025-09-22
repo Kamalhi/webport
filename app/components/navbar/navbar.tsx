@@ -94,7 +94,7 @@ const Navbar = () => {
               download
               target="_blank"
               rel="noopener noreferrer"
-              className="hidden lg:flex items-center px-10 py-2.5 gap-3 border border-gray-500 rounded-full ml-4 dark:bg-[#1f1f1f] dark:border-white dark:hover:bg-[#e4e4db] dark:text-white dark:hover:text-black dark:hover:border-black"
+              className="hidden lg:flex items-center px-10 py-2.5 gap-3 border border-[#1f1f1f] hover:bg-[#1f1f1f] hover:border-white hover:text-white rounded-full ml-4 dark:bg-[#1f1f1f] dark:border-white dark:hover:bg-[#e4e4db] dark:text-white dark:hover:text-black dark:hover:border-black"
             >
               Get my Resume <DownloadIcon className="w-5" strokeWidth={2.5} />
             </a>
