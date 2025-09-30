@@ -42,3 +42,4 @@ Website Dark Theme
 ![alt text](https://github.com/Kamalhi/webport/blob/main/portweb-dark.png?raw=true)
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Note : Website ini terinspirasi dari beberapa sumber
