@@ -41,7 +41,7 @@ const Hero = () => {
           className="rounded-full bg-white shadow-md hover:bg-black hover:text-white hover:cursor-pointer px-10 py-3 border border-gray-300 flex items-center gap-2 dark:bg-[#1f1f1f] dark:text-white dark:border-white
           dark:hover:bg-white dark:hover:text-black"
         >
-          Let's Go
+          Let&apos;s Go
           <ChevronDown className="w-5" strokeWidth={2.5} />
         </a>
       </div>

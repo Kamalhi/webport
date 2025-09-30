@@ -41,7 +41,7 @@ const Main = () => {
             href="#about"
             className="rounded-full bg-white shadow-md hover:bg-black hover:text-white hover:cursor-pointer px-10 py-3 border border-gray-300 flex items-center gap-2"
           >
-            Let's Go
+            Let&apos;s Go
             <ChevronDown className="w-5" strokeWidth={2.5} />
           </a>
         </div>
